@@ -1,6 +1,6 @@
 [package]
 name = "pom-preview"
-version = "3.0.4.alpha.1"
+version = "3.0.4-alpha-1"
 edition = "2018"
 authors = ["Junfeng Liu <china.liujunfeng@gmail.com>", "Jovansonlee Cesar <ivanceras@gmail.com"]
 homepage = "https://github.com/ivanceras/pom-preview"
